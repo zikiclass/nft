@@ -1,2 +1,2 @@
 export const title = " - aggregated NFT marketplace with rewards";
-export const name = "Art Ribble";
+export const name = "Digital Market Opial";
